@@ -23,3 +23,13 @@ What is a Task
 ## Things at work
 
 ## Things Finished
+
+
+State Hooks - useState(), useReducer()
+Context Hooks - useContext() 
+Ref Hooks - useRef()
+Effect Hooks - useEffect()  - connect with browser apis
+Performance Hooks - useMemo(), useCallback()
+
+Suspense
+77Ha12!
