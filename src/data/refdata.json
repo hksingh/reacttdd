@@ -1,0 +1,38 @@
+[
+    {
+        "project": [
+            {
+                "id": 1, "name": "Health & Wellness", "description": "Should include mental health as well, holistically"
+            }, 
+            {
+                "id": 2, "name": "Skills", "description": "Growth Mindset, how are you improving on a daily basis"
+            }, 
+            {
+                "id": 3, "name": "Work", "description": "Anything to augment your work skills"
+            }, 
+            {
+                "id":4, "name": "Ethical/Discipline", "description": "Discipline, bringing consistency in behavior / ethics/ conduct"
+            }, 
+            {
+                "id": 5, "name": "Family", "description": "Improving well being of everyone involved"
+            }, 
+            {
+                "id": 6, "name": "Misc", "description": "Catch All"
+            }          
+        ]
+    }, 
+    {
+        "priority": [
+            {
+                "id": 1, "name": "High", "description": "takes precedence over medium"
+            }, 
+            {
+                "id": 2, "name": "Medium", "description": "Has to be completed today"
+            }, 
+            {
+                "id": 3, "name": "Unsure", "description": "In the current state not sure where it lies"
+            }
+        ]
+    }
+]
+

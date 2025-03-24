@@ -1,0 +1,25 @@
+# Things to do 
+Task Tracking System
+1. Create a task 
+2. Organize the task - categories, tags or projects
+3. Reminders/Notifications
+4. Search / Filter - specific tasks quickly
+5. Progress Tracking - Charts/ Percentage Bars
+
+Project 
+1. Health & Wellness 2. Skills  3. Work  4. Ethical 5. Family 6. Misc
+
+Sprint (from monday to saturday, sunday is recovery day) 6 day Sprint
+Each day block 6 hours of sprint time - 36 hour sprint time 
+
+Mandatory / optional 
+
+Task (UoW not more than 2 hours)
+ - id, name, priority, categories, start date, end date, Project, mandatory/optional 
+
+
+What is a Task 
+
+## Things at work
+
+## Things Finished
